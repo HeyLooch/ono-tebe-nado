@@ -1,1 +1,6 @@
-/* место для вашего кода */
+.test {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 10px solid red;
+}
