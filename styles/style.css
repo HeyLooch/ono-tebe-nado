@@ -5,7 +5,7 @@
   font-size: 18px;
 }
 
-.header__menu{
+.header__menu {
   margin: auto 0;
 }
 
@@ -43,7 +43,7 @@
 .header__address {
   justify-self: end;
   align-self: center;
-  margin-right: 36px; 
+  margin-right: 36px;
   font-style: normal;
   line-height: 1.35;
 }
@@ -56,7 +56,7 @@
 .cover {
   position: relative;
   z-index: -2;
-  background: url('../images/cover.jpg') no-repeat center / cover;
+  background: url("../images/cover.jpg") no-repeat center / cover;
 }
 
 .overlay {
@@ -72,7 +72,7 @@
   bottom: 2px;
   left: 1px;
   padding: 165px 50px 135px;
-  color:  #FFF;
+  color: #fff;
   font-size: 100px;
   font-weight: bold;
   text-transform: uppercase;
@@ -123,7 +123,7 @@
   bottom: 5px;
   gap: 78px;
   padding: 0 50px 46px 78px;
-  color: #FFF;
+  color: #fff;
   font-size: 22px;
   text-transform: uppercase;
 }
@@ -135,8 +135,8 @@
 
 .bet-button {
   background-color: transparent;
-  border: 1px solid  #FFF;
-  color:  #FFF;
+  border: 1px solid #fff;
+  color: #fff;
   font-size: 22px;
   text-transform: uppercase;
   width: 256px;
@@ -164,7 +164,7 @@
 
 .lots__card-list-item {
   width: 334px;
-  min-height: 563px; 
+  min-height: 563px;
 }
 
 .card-link {
@@ -181,25 +181,19 @@
   z-index: -2;
   height: 100%;
   padding: 51px 40px 48px;
-  color: #FFF;
+  color: #fff;
 }
 
 .card_type_film {
-  background: 
-    url('../images/card-lot-01.jpg') 
-    no-repeat center / cover;
+  background: url("../images/card-lot-01.jpg") no-repeat center / cover;
 }
 
 .card_type_book {
-  background: 
-    url('../images/card-lot-02.jpg') 
-    no-repeat center / cover;
+  background: url("../images/card-lot-02.jpg") no-repeat center / cover;
 }
 
 .card_type_picture {
-  background: 
-    url('../images/card-lot-03.jpg') 
-    no-repeat center / cover;
+  background: url("../images/card-lot-03.jpg") no-repeat center / cover;
 }
 
 .card__title {
@@ -230,7 +224,7 @@
   padding: 139px 24px 0;
 }
 
- .about__logo {
+.about__logo {
   display: flex;
   margin: 44px auto 0;
   background-color: #000;
@@ -274,7 +268,7 @@
 
 .address {
   margin-right: 39px;
-  font-style: normal; 
+  font-style: normal;
   line-height: 1.35;
 }
 
